@@ -1,0 +1,36 @@
+#tocnav > ul > li.active > a {
+    background: #037b91;
+}
+
+.nav-pills > li.active > a, 
+.nav-pills > li.active > a:hover, 
+.nav-pills > li.active > a:focus {
+    color: #FFF;
+    background-color: #9cbebe;
+}
+
+
+#tocnav .nav li ul li a:before {
+    content: "\2022   " !important;
+}
+
+#tocnav .nav li ul li a {
+  padding-left: 45px
+}
+
+#tocnav ul li a:before {
+    content: "" !important;
+}
+
+
+
+
+.nav > li > a:before {
+    content: "\2022   ";
+}
+
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 35px;
+}

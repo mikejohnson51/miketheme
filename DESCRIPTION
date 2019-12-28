@@ -1,0 +1,14 @@
+Package: miketheme
+Title: Themed Documents (for Mike)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Mike",
+           family = "Johnson",
+           role = c("aut", "cre"),
+           email = "jmj00@ucsb.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: `miketheme` creates unique but consistent documents with a central CSS file.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+

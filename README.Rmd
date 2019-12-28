@@ -1,0 +1,20 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# miketheme
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of `miketheme` is to create unique but consistent documents with a central CSS file.
+
