@@ -1,0 +1,6 @@
+^README\.Rmd$
+^LICENSE\.md$
+^data-raw$
+^.*\.Rproj$
+^\.Rproj\.user$
+^scss$

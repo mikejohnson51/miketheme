@@ -6,7 +6,7 @@ Authors@R:
            family = "Johnson",
            role = c("aut", "cre"),
            email = "jmj00@ucsb.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           comment = c(ORCID = "0000-0002-5288-8350"))
 Description: `miketheme` creates unique but consistent documents with a central CSS file.
 License: MIT + file LICENSE
 Encoding: UTF-8
